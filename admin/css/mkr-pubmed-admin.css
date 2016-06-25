@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/**
+ * define the widths of the columns on the pubmed posts screen
+ */
+  .publications #year {
+    width: 80px;
+  }
+  .publications #issue {
+    width: 60px;
+  }
+  .publications #volume {
+    width: 60px;
+  }
+  .publications #page {
+    width: 80px;
+  }
+  .publications #PMID {
+    width: 80px;
+  }

@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+/**
+ * styles for the publications template
+ */
+#pm-accordion-wrap .accordion-item {
+  padding: 40px 40px;
+}
+
+#pm-accordion-wrap .accordion-item:nth-child(odd) {
+  background-color: #eee;
+}
+
+#pm-accordion-wrap .accordion-item .pm-meta-container {
+  margin-bottom:20px;
+}
+#pm-accordion-wrap .accordion-item .pm-meta-container .pm-journal-abbr {
+  margin: 0;
+}
+#pm-accordion-wrap .accordion-item .pm-meta-container abbr {
+    text-transform: none;
+    letter-spacing: normal;
+    border-bottom: 1px dotted #ccc;
+    cursor: help;
+}
+#pm-accordion-wrap .accordion-item .pm-meta-container .pm-journal-meta {
+  font-size: 13px;
+  margin: 0;
+}
+#pm-accordion-wrap .accordion-item .pm-meta-container .pm-journal-meta span {
+  margin-right: 6px;
+}
+
+#pm-accordion-wrap .accordion-item h2 {
+  margin: 0 0 6px 0;
+}
+
+
+#pm-accordion-wrap .accordion-item .accordion-title {
+}
+
+#pm-accordion-wrap .accordion-item .ui-state-default .ui-icon:before {
+  position: relative;
+  top: -1px;
+  font-family: 'FontAwesome';
+  font-size: 14px;
+  content:'\f055';
+  padding-right: 6px;
+  -webkit-font-smoothing: antialiased;
+  /*color: #ff312d;*/
+  -webkit-transition: all .45s;
+  transition: all .45s;
+}
+#pm-accordion-wrap .accordion-item .ui-state-active .ui-icon:before {
+  content:'\f056';
+}
