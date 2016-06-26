@@ -1,14 +1,14 @@
 #PULL pubmed
 
 @wordpress-plugin
-Plugin Name:       PULL PUBMED
-Description:       This wordpress plugin grabs data related to a PMID from Pubmed.
-Version:           1.0.0
-Author:            Mickel Metekohy
-License:           GPL-2.0+
-License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
-Text Domain:       mkr-pubmed
-Domain Path:       /languages
+Plugin Name:       PULL PUBMED  
+Description:       This wordpress plugin grabs data related to a PMID from Pubmed.  
+Version:           1.0.0  
+Author:            Mickel Metekohy  
+License:           GPL-2.0+  
+License URI:       http://www.gnu.org/licenses/gpl-2.0.txt  
+Text Domain:       mkr-pubmed  
+Domain Path:       /languages  
 
 ## Description
 
