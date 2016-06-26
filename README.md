@@ -1,6 +1,6 @@
 #PULL pubmed
 
-@wordpress-plugin
+Wordpress-plugin
 Plugin Name:       PULL PUBMED  
 Description:       This wordpress plugin grabs data related to a PMID from Pubmed.  
 Version:           1.0.0  
