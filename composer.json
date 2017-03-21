@@ -1,0 +1,19 @@
+{
+  "name": "mickelmetekohy/pull-pubmed",
+  "description": "Wordpress plugin to pull publications from Pubmed",
+  "keywords": ["wordpress", "plugin", "pubmed"],
+  "homepage": "https://github.com/MickelMetekohy/pull-pubmed",
+  "license": "GPL2+",
+  "authors" : [
+    {
+      "name": "Mickel Metekohy",
+      "email": "m.star28@gmail.com",
+      "https://mickelmetekohy.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "~1.0.12",
+  }
+}
